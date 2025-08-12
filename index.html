@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Database of Lucan Manuscripts</title>
+
+    <style>
+        body {
+            margin: 0;
+        }
+        header {
+            /*sticky header*/
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            /* styling */
+            background-color: darkseagreen;
+            color: white;
+            padding: 20px 10px;
+            font-size: xx-large;
+        }
+        .container {
+            margin-top: 3rem;
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 1140px;
+        }
+        table {
+            margin-top: 30px;
+            width: 100%;
+        }
+    </style>
+
+    <link href="https://fonts.googleapis.com/css2?family=Eagle+Lake&display=swap" rel="stylesheet">
+	
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+
+	<script>
+            $(function() {
+            Papa.parse("https://raw.githubusercontent.com/enury/formulae/refs/heads/main/data.csv", {
+              download: true,
+              header: true,
+              skipEmptyLines: true,
+              complete: function(example) {
+              console.log(example.data)
+          $(document).ready(function () {
+              $('#datatable').DataTable({
+                  data: example.data,
+                  dataSrc:"",
+                  columns: [
+                      {data: "identifier"},
+                      {data: "from"},
+                      {data: "to"},
+                      {data: "library"},
+                      {data: "link"},
+                      {data: "contents"},
+                      {data: "schema"},
+                      {data: "schema-location"},
+                      {data: "anthol.lat.233"},
+                      {data: "anthol.lat.485c"},
+                      {data: "anthol.lat.668"},
+                      {data: "anthol.lat.719c"},
+                      {data: "anthol.lat.806"},
+                      {data: "suetonius-vita"},
+                      {data: "ps-vacca-vita"},
+                      {data: "prose-argumentum"},
+                      {data: "scholia"}
+                  ]
+              });
+          });
+          }
+      });
+  });        
+        </script>
+</head>
+<body>
+    <header>Database of Lucan Manuscripts</header>
+	<div class="container">
+		
+        <table id="datatable" class="display">
+	        <thead>
+	            <tr>
+	                <th>Identifier</th>
+	                <th>From</th>
+	                <th>To</th>
+                  <th>Library</th>
+                  <th>Link</th>
+                  <th>Contents</th>
+                  <th>Schemas?</th>
+                  <th>Schema location</th>
+                  <th>Anthol.lat.233</th>
+                  <th>Anthol.lat.485c</th>
+                  <th>Anthol.lat.668</th>
+                  <th>Anthol.lat.719c</th>
+                  <th>Anthol.lat.806</th>
+                  <th>Suetonius vita lucani</th>
+                  <th>Ps-Vacca vita lucani</th>
+                  <th>Prose summary</th>
+                  <th>Gloses/Scholia</th>
+	            </tr>
+	        </thead>
+	    </table>
+	</div>
+	
+
+</body>
+</html>
