@@ -1,6 +1,6 @@
 identifier,from,to,library,link,contents,schema,schema-location,anthol.lat.233,anthol.lat.485c,anthol.lat.668,anthol.lat.719c,anthol.lat.806,suetonius-vita,ps-vacca-vita,prose-argumentum,scholia
 Bern. Cod. 45,,,Bern Bürgerbibliothek,https://www.e-codices.unifr.ch/en/list/one/bbb/0045,,yes,f.28ra; 41rb; 44v,,,yes,,,yes,,book 1,
-Bern. Cod. 370,,,Bern Bürgerbibliothek,,,yes,,,,,yes,,,,yes,
+Bern. Cod. 370,,,Bern Bürgerbibliothek,https://www.e-codices.unifr.ch/en/list/one/bbb/0370,,yes,,,,,yes,,,,yes,
 Bern. Cod. 363,,,Bern Bürgerbibliothek,,,,,,yes,,,,,,,
 Cod. Bodmer 108,,,Fondation Bodmer,https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0108/,,,,,,,,,,,,
 Cod. Sang. 864,,,Sankt Gallen Stiftsbibliothek,https://www.e-codices.unifr.ch/en/list/one/csg/0864,,,,,,,,,,,,
@@ -60,3 +60,20 @@ Latin Ms. 118,,,Duke,https://blogs.library.duke.edu/rubenstein/2012/03/21/anothe
 Latin Ms. 125,,,Duke,https://blogs.library.duke.edu/rubenstein/2014/06/18/uses-for-an-11th-century-latin-manuscript/,fragments: Book 4; lines 634-659; 667-692; and 700-725,,,,,,,,,,,
 MS. Canon. Class. Lat. 68,,,Oxford,https://marco.ox.ac.uk/ark:29072/x00000010744,,,,,,yes,,,,,,
 MS. Lat. class. c. 6,,,Oxford,https://marco.ox.ac.uk/ark:29072/x06m311q12hg,,,,,,yes,,,,,,
+Latin 7502,0810,0830,BNF,https://portail.biblissima.fr/fr/ark:/43093/mdata07f039da516b6e9b12c47e580fc859fafcb59704,,,,,,yes,,,,,book1,no
+Latin 8042,1301,1400,BNF,https://portail.biblissima.fr/fr/ark:/43093/mdata51beb7f79614f45665e90063901b2be5337f1fe5,,,,,,yes,,,,,,no
+Latin 8043,1301,1400,BNF,https://portail.biblissima.fr/fr/ark:/43093/mdatadba2ab3b5c2b6bb90d8ba5b7d61857142792b8bc,,,,,,yes,,,,,,no
+Latin 9346,1001,1100,BNF,https://portail.biblissima.fr/fr/ark:/43093/mdataf15aa973464b8da0334ea20ccf68f7ca3868ac36,,,,,,,,,,,,yes
+Latin 8045,1301,1400,BNF,https://portail.biblissima.fr/fr/ark:/43093/mdatad4f7629e8dea6f484b22532aeab80d830ee1582e,,,,,,yes,,,,,,yes
+Latin 13045,1001,1100,BNF,https://gallica.bnf.fr/ark:/12148/btv1b90683578,,,,,,no?,,,,,,no
+NAL 1626,,,BNF,https://gallica.bnf.fr/ark:/12148/btv1b10037295q,,,,,,yes,,,,,,no
+Latin 10314,,,BNF,https://gallica.bnf.fr/ark:/12148/btv1b9066947b,,,,,,no,,,,,,
+Latin 10315,,,BNF,https://gallica.bnf.fr/ark:/12148/btv1b9066851w,,,,,,yes,,,,,,yes
+Latin 15146,,,BNF,https://gallica.bnf.fr/ark:/12148/btv1b9067252j,,yes,,,,,,,,,,
+Latin 8269,1201,1300,BNF,https://gallica.bnf.fr/ark:/12148/btv1b525179567,,,,,,,,,,,,yes
+Latin 10403,,,BNF,https://gallica.bnf.fr/ark:/12148/btv1b52513088k,fragments,,,,,,,,,,,yes
+Latin 17901,1046,1055,BNF,https://gallica.bnf.fr/ark:/12148/btv1b10545020t,,,,,,,,,,,,yes
+Ms. 761,,,Douai,https://portail.biblissima.fr/fr/ark:/43093/mdata7a5776a6a71c7d58131e316cacd3444271095497,,,,,,,,,,,,yes
+H 113,0801,1000,Montpellier,https://portail.biblissima.fr/fr/ark:/43093/mdatafbbd039171c7ebe67e1d28e4284e3bb25f067bde,,,,,,,,,,,,
+Ms. 882,1301,1400,Tours,https://portail.biblissima.fr/fr/ark:/43093/mdataede6e5d340204a123dafabea7bbde8eed1ce1fa9,,,,,,yes,,,,,,
+Ms. 518,1101,1200,Metz,https://gallica.bnf.fr/ark:/12148/btv1b105570826,,,,,,yes,,,,,,yes
