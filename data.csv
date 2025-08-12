@@ -1,61 +1,61 @@
-identifier	from	to	library	link	contents	schema	schema-location	anthol.lat.233	anthol.lat.485c	anthol.lat.668	anthol.lat.719c	anthol.lat.806	suetonius-vita	ps-vacca-vita	prose-argumentum	scholia
-Bern. Cod. 45			Bern Bürgerbibliothek	https://www.e-codices.unifr.ch/en/list/one/bbb/0045		yes	f.28ra, 41rb, 44v			yes			yes		book 1	
-Bern. Cod. 370			Bern Bürgerbibliothek													
-Bern. Cod. 363			Bern Bürgerbibliothek						yes							
-Cod. Bodmer 108			Fondation Bodmer	https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0108/												
-Cod. Sang. 864			Sankt Gallen Stiftsbibliothek	https://www.e-codices.unifr.ch/en/list/one/csg/0864												
-Cod. Bodmer 182			Fondation Bodmer	https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0182/										yes	yes	
-Pal.lat. 1680			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Pal.lat.1680						yes					yes	
-Arch.Cap.S.Pietro.H.17			Biblioteca Vaticana	https://digi.vatlib.it/mss/detail/Arch.Cap.S.Pietro.H.17						yes						
-Reg.lat. 1543			Biblioteca Vaticana	https://digi.vatlib.it/mss/detail/Reg.lat.1543						yes						
-Urb. lat. 656			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Urb.lat.656						yes						
-Vat. lat. 1619			Biblioteca Vaticana	https://digi.vatlib.it/mss/detail/Vat.lat.1619												
-Vat. lat. 1620			Biblioteca Vaticana	https://digi.vatlib.it/mss/detail/Vat.lat.1620												
-Vat. lat. 1621			Biblioteca Vaticana	https://digi.vatlib.it/mss/detail/Vat.lat.1621												
-Vat. lat. 1622			Biblioteca Vaticana	https://opac.vatlib.it/mss/detail/Vat.lat.1622						yes						
-Vat. lat. 1623			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Vat.lat.1623												
-Vat. lat. 2940			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Vat.lat.2940	fragment											
-Vat. lat. 3285			Biblioteca Vaticana	https://digi.vatlib.it/mss/detail/Vat.lat.3285												
-Vat. lat. 11559			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Vat.lat.11559						yes						
-Barb. lat. 37	1201	1400	Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Barb.lat.37								yes				
-Barb. lat. 66	1201	1400	Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Barb.lat.66						yes		yes				
-Vat. lat. 2797	1401	1500	Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Vat.lat.2797								yes				
-Vat. lat. 2798	1375	1400	Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Vat.lat.2798	books 6-10							yes				
-Vat. lat. 2803			Biblioteca Vaticana									yes				
-Vat. lat. 2804	1350	1400	Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Vat.lat.2804						yes		yes			books 7, 8, 9	
-Borg. lat. 375			Biblioteca Vaticana													
-Ott. lat. 1210			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Ott.lat.1210		yes	14v...									
-Ott. lat. 2872	1455	1455	Biblioteca Vaticana							yes						
-Pal. lat. 24			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Pal.lat.24	fragments											
-Reg. lat. 1802			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Reg.lat.1802												no
-Vat. lat. 1519			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Vat.lat.1519	no											yes
-Vat. lat. 1769			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Vat.lat.1769	no											
-Vat. lat. 14740			Biblioteca Vaticana	https://digi.vatlib.it/view/MSS_Vat.lat.14740	fragment											
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-			Laurenziana													
-Latin Ms. 118			Duke	https://blogs.library.duke.edu/rubenstein/2012/03/21/another-civil-war-lucans-pharsalia/												
-Latin Ms. 125			Duke	https://blogs.library.duke.edu/rubenstein/2014/06/18/uses-for-an-11th-century-latin-manuscript/	fragments: Book 4, lines 634-659, 667-692, and 700-725											
+identifier,from,to,library,link,contents,schema,schema-location,anthol.lat.233,anthol.lat.485c,anthol.lat.668,anthol.lat.719c,anthol.lat.806,suetonius-vita,ps-vacca-vita,prose-argumentum,scholia
+Bern. Cod. 45,,,Bern Bürgerbibliothek,https://www.e-codices.unifr.ch/en/list/one/bbb/0045,,yes,"f.28ra, 41rb, 44v",,,yes,,,yes,,book 1,
+Bern. Cod. 370,,,Bern Bürgerbibliothek,,,,,,,,,,,,,
+Bern. Cod. 363,,,Bern Bürgerbibliothek,,,,,,yes,,,,,,,
+Cod. Bodmer 108,,,Fondation Bodmer,https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0108/,,,,,,,,,,,,
+Cod. Sang. 864,,,Sankt Gallen Stiftsbibliothek,https://www.e-codices.unifr.ch/en/list/one/csg/0864,,,,,,,,,,,,
+Cod. Bodmer 182,,,Fondation Bodmer,https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0182/,,,,,,,,,,yes,yes,
+Pal.lat. 1680,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Pal.lat.1680,,,,,,yes,,,,,yes,
+Arch.Cap.S.Pietro.H.17,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Arch.Cap.S.Pietro.H.17,,,,,,yes,,,,,,
+Reg.lat. 1543,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Reg.lat.1543,,,,,,yes,,,,,,
+Urb. lat. 656,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Urb.lat.656,,,,,,yes,,,,,,
+Vat. lat. 1619,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.1619,,,,,,,,,,,,
+Vat. lat. 1620,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.1620,,,,,,,,,,,,
+Vat. lat. 1621,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.1621,,,,,,,,,,,,
+Vat. lat. 1622,,,Biblioteca Vaticana,https://opac.vatlib.it/mss/detail/Vat.lat.1622,,,,,,yes,,,,,,
+Vat. lat. 1623,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.1623,,,,,,,,,,,,
+Vat. lat. 2940,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.2940,fragment,,,,,,,,,,,
+Vat. lat. 3285,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.3285,,,,,,,,,,,,
+Vat. lat. 11559,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.11559,,,,,,yes,,,,,,
+Barb. lat. 37,1201,1400,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Barb.lat.37,,,,,,,,yes,,,,
+Barb. lat. 66,1201,1400,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Barb.lat.66,,,,,,yes,,yes,,,,
+Vat. lat. 2797,1401,1500,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.2797,,,,,,,,yes,,,,
+Vat. lat. 2798,1375,1400,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.2798,books 6-10,,,,,,,yes,,,,
+Vat. lat. 2803,,,Biblioteca Vaticana,,,,,,,,,yes,,,,
+Vat. lat. 2804,1350,1400,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.2804,,,,,,yes,,yes,,,"books 7, 8, 9",
+Borg. lat. 375,,,Biblioteca Vaticana,,,,,,,,,,,,,
+Ott. lat. 1210,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Ott.lat.1210,,yes,14v...,,,,,,,,,
+Ott. lat. 2872,1455,1455,Biblioteca Vaticana,,,,,,,yes,,,,,,
+Pal. lat. 24,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Pal.lat.24,fragments,,,,,,,,,,,
+Reg. lat. 1802,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Reg.lat.1802,,,,,,,,,,,,no
+Vat. lat. 1519,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.1519,no,,,,,,,,,,,yes
+Vat. lat. 1769,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.1769,no,,,,,,,,,,,
+Vat. lat. 14740,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.14740,fragment,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+,,,Laurenziana,,,,,,,,,,,,,
+Latin Ms. 118,,,Duke,https://blogs.library.duke.edu/rubenstein/2012/03/21/another-civil-war-lucans-pharsalia/,,,,,,,,,,,,
+Latin Ms. 125,,,Duke,https://blogs.library.duke.edu/rubenstein/2014/06/18/uses-for-an-11th-century-latin-manuscript/,"fragments: Book 4, lines 634-659, 667-692, and 700-725",,,,,,,,,,,
