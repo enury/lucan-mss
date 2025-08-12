@@ -55,9 +55,7 @@
                       {data: "from"},
                       {data: "to"},
                       {data: "library"},
-                      {data: "link", 
-					    render: function (data, type, row, meta) {
-                	    return '<a href="' + data + '">view</a>';},
+                      {data: "link"},
                       {data: "contents"},
                       {data: "schema"},
                       {data: "schema-location"},
@@ -72,9 +70,23 @@
                       {data: "scholia"}
                   ],
 				  order: [
-        			  [0, 'asc'],
-        			  [3, 'asc']
-    			  ]
+				      [3, 'asc'],
+        			  [0, 'asc']
+    			  ],
+				  columnDefs: [
+				      {
+				      "defaultContent": "-",
+                      "targets": "_all"
+                     },
+					 {
+                     "targets": 4,
+                     "data": 'link',
+					 "render": 
+					     function (data, type, row, meta) {
+						     return '<a href="' + data + '">View</a>';
+            }
+        }
+				  ]
               });
           });
           }
