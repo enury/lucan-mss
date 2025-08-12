@@ -55,7 +55,9 @@
                       {data: "from"},
                       {data: "to"},
                       {data: "library"},
-                      {data: "link"},
+                      {data: "link", 
+					    render: function (data, type, row, meta) {
+                	    return '<a href="' + data + '">view</a>';},
                       {data: "contents"},
                       {data: "schema"},
                       {data: "schema-location"},
@@ -68,7 +70,11 @@
                       {data: "ps-vacca-vita"},
                       {data: "prose-argumentum"},
                       {data: "scholia"}
-                  ]
+                  ],
+				  order: [
+        			  [0, 'asc'],
+        			  [3, 'asc']
+    			  ]
               });
           });
           }
@@ -79,6 +85,10 @@
 <body>
     <header>Database of Lucan Manuscripts</header>
 	<div class="container">
+
+		<p>Overview of some manuscripts containing Lucan's Pharsalia or associated texts such as pieces from the Anthologia Latina, life of Lucan, scholia, etc.</p>
+
+		<p>The table is not complete and will (slowly) grow as I review more data and add to it.</p>
 		
         <table id="datatable" class="display">
 	        <thead>
