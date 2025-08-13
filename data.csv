@@ -5,22 +5,22 @@ Bern. Cod. 363,,,Bern Bürgerbibliothek,,,,,,yes,,,,,,,
 Cod. Bodmer 108,,,Fondation Bodmer,https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0108/,,,,,,,,,,,,
 Cod. Sang. 864,,,Sankt Gallen Stiftsbibliothek,https://www.e-codices.unifr.ch/en/list/one/csg/0864,,,,,,,,,,,,
 Cod. Bodmer 182,,,Fondation Bodmer,https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0182/,,,,,,,,,,yes,yes,
-Pal.lat. 1680,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Pal.lat.1680,,,,,,yes,,,,,yes,
-Arch.Cap.S.Pietro.H.17,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Arch.Cap.S.Pietro.H.17,,,,,,yes,,,,,,
-Reg.lat. 1543,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Reg.lat.1543,,,,,,yes,,,,,,
-Urb. lat. 656,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Urb.lat.656,,,,,,yes,,,,,,
-Vat. lat. 1619,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.1619,,,,,,,,,,,,
-Vat. lat. 1620,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.1620,,,,,,,,,,,,
-Vat. lat. 1621,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.1621,,,,,,,,,,,,
+Pal.lat. 1680,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Pal.lat.1680,,no?,,,,yes,,,,,yes,yes
+Arch.Cap.S.Pietro.H.17,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Arch.Cap.S.Pietro.H.17,,,,,,yes,,,,,,yes
+Reg.lat. 1543,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Reg.lat.1543,,,,,,yes,,,,,,yes
+Urb. lat. 656,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Urb.lat.656,,no?,,,,yes,,,,,,no
+Vat. lat. 1619,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.1619,,no?,,,,yes,,,,,,no
+Vat. lat. 1620,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.1620,,no?,,,,yes,,,,,,yes
+Vat. lat. 1621,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.1621,,,,,,,,,,,,yes
 Vat. lat. 1622,,,Biblioteca Vaticana,https://opac.vatlib.it/mss/detail/Vat.lat.1622,,,,,,yes,,,,,,
-Vat. lat. 1623,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.1623,,,,,,,,,,,,
+Vat. lat. 1623,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.1623,,,,,,,,,,,,yes
 Vat. lat. 2940,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.2940,fragment,,,,,,,,,,,
 Vat. lat. 3285,,,Biblioteca Vaticana,https://digi.vatlib.it/mss/detail/Vat.lat.3285,,,,,,,,,,,,
 Vat. lat. 11559,,,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.11559,,,,,,yes,,,,,,
 Barb. lat. 37,1201,1400,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Barb.lat.37,,,,,,,,yes,,,,
 Barb. lat. 66,1201,1400,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Barb.lat.66,,,,,,yes,,yes,,,,
 Vat. lat. 2797,1401,1500,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.2797,,,,,,,,yes,,,,
-Vat. lat. 2798,1375,1400,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.2798,books 6-10,,,,,,,yes,,,,
+Vat. lat. 2798,1375,1400,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.2798,,,,,,,,yes,,,,
 Vat. lat. 2803,,,Biblioteca Vaticana,,,,,,,,,yes,,,,
 Vat. lat. 2804,1350,1400,Biblioteca Vaticana,https://digi.vatlib.it/view/MSS_Vat.lat.2804,,,,,,yes,,yes,,,books 7; 8; 9,
 Borg. lat. 375,,,Biblioteca Vaticana,,,,,,,,,,,,,
@@ -43,12 +43,12 @@ Plut.35.14,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/d
 Plut.35.8,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/622477/rec/18,,yes,,,,yes,,,,,,
 Plut.35.11,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/553158/rec/19,,,,,,yes,,,,,,
 Plut.35.2,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/585718/rec/20,,,,,,yes,,,,,,
-Plut.24 sin.3,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/564130/rec/28,,,,,,yes,,,,,,
+Plut.24 sin.3,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/564130/rec/28,,yes,83r,,,yes,,,,,,
 Plut.91 sup.32,1401,1500,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/918711/rec/38,,,,,,yes,,,,,,
 Plut.35.1,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/545558/rec/37,,,,,,yes,,,,,yes,yes
-Plut.35.17,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/718819/rec/6,,,,,,,,,,,,yes
-Plut.35.3,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/533882/rec/9,,,,,,,,,,,,no
-Plut.35.18,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/719355/rec/10,,,,,,,,,,,,yes
+Plut.35.17,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/718819/rec/6,,yes,56r,,,,,,,,,yes
+Plut.35.3,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/533882/rec/9,,yes,,,,,,,,,,no
+Plut.35.18,1201,1300,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/719355/rec/10,,yes,66r,,,,,,,,,yes
 Plut.35.10,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/589125/rec/12,,,,,,,,,,,,
 Plut.35.21,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/681404/rec/15,,,,,,,,,,,,
 Plut.35.9,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/463261/rec/17,,,,,,,,,,,,
@@ -58,8 +58,10 @@ Plut.35.19,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/d
 Plut.35.16,,,Biblioteca Medicea Laurenziana,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/728848/rec/3,,,,,,,,,,,,yes
 Latin Ms. 118,,,Duke,https://blogs.library.duke.edu/rubenstein/2012/03/21/another-civil-war-lucans-pharsalia/,,,,,,,,,,,,
 Latin Ms. 125,,,Duke,https://blogs.library.duke.edu/rubenstein/2014/06/18/uses-for-an-11th-century-latin-manuscript/,fragments: Book 4; lines 634-659; 667-692; and 700-725,,,,,,,,,,,
-MS. Canon. Class. Lat. 68,,,Oxford,https://marco.ox.ac.uk/ark:29072/x00000010744,,,,,,yes,,,,,,
-MS. Lat. class. c. 6,,,Oxford,https://marco.ox.ac.uk/ark:29072/x06m311q12hg,,,,,,yes,,,,,,
+MS. Canon. Class. Lat. 68,,,Bodleian Library,https://marco.ox.ac.uk/ark:29072/x00000010744,,,,,,yes,,,,,,
+MS. Lat. class. c. 6,,,Bodleian Library,https://marco.ox.ac.uk/ark:29072/x06m311q12hg,,,,,,yes,,,,,,
+MS. Auct. F. 2. 9,,,Bodleian Library,https://digital.bodleian.ox.ac.uk/objects/ec1066fa-2436-406c-add0-fc41cddc6694/,,yes,79r,,,,,,,,,
+MS. Lat. class. d. 14,1350,1388,Bodleian Library,https://digital.bodleian.ox.ac.uk/objects/0a1909ef-988f-4467-8c52-519e26a0bdf7/,,yes,137v,,,,,,,,,
 Latin 7502,0810,0830,BNF,https://portail.biblissima.fr/fr/ark:/43093/mdata07f039da516b6e9b12c47e580fc859fafcb59704,,,,,,yes,,,,,book1,no
 Latin 8042,1301,1400,BNF,https://portail.biblissima.fr/fr/ark:/43093/mdata51beb7f79614f45665e90063901b2be5337f1fe5,,,,,,yes,,,,,,no
 Latin 8043,1301,1400,BNF,https://portail.biblissima.fr/fr/ark:/43093/mdatadba2ab3b5c2b6bb90d8ba5b7d61857142792b8bc,,,,,,yes,,,,,,no
@@ -77,3 +79,23 @@ Ms. 761,,,Douai,https://portail.biblissima.fr/fr/ark:/43093/mdata7a5776a6a71c7d5
 H 113,0801,1000,Montpellier,https://portail.biblissima.fr/fr/ark:/43093/mdatafbbd039171c7ebe67e1d28e4284e3bb25f067bde,,,,,,,,,,,,
 Ms. 882,1301,1400,Tours,https://portail.biblissima.fr/fr/ark:/43093/mdataede6e5d340204a123dafabea7bbde8eed1ce1fa9,,,,,,yes,,,,,,
 Ms. 518,1101,1200,Metz,https://gallica.bnf.fr/ark:/12148/btv1b105570826,,,,,,yes,,,,,,yes
+Clm 349,1299,1299,BSB,https://www.digitale-sammlungen.de/en/view/bsb00084710,books 1-10,yes,29r,,,yes,,,,,,yes
+Clm 14688,,,BSB,https://www.digitale-sammlungen.de/en/view/bsb00109439,no,yes,p.196,,,,,,,,,yes
+Clm 322,,,BSB,https://www.digitale-sammlungen.de/en/view/bsb00120830,,,,,,yes,,,,,,
+Clm 14505,,,BSB,https://www.digitale-sammlungen.de/en/view/bsb00046290,,,,,,yes (long version! p.267),,,,,,yes
+Clm 23481,,,BSB,https://www.digitale-sammlungen.de/en/view/bsb00049259,fragments,,,,,,,,,,,
+Clm 14466,,,BSB,https://www.digitale-sammlungen.de/en/view/bsb00094399,,yes,101r (207),,,,,,,,,no
+Clm 4593,,,BSB,https://www.digitale-sammlungen.de/en/view/bsb00036892,,yes,p.172,,,yes,,,,,yes,yes
+Bamberg IX A 111,,,Bamberg,https://www.digitale-sammlungen.de/en/view/bsb00140837,fragments,,,,,,,,,,,
+Cod. Ser. n. 293 HAN MAG,1150,1199,ONB,http://data.onb.ac.at/rec/AC14247148,no,,,,,,,,,,,yes
+Cod. 308 HAN MAG,,,ONB,http://data.onb.ac.at/rec/AC13974385,,,,,,,,,,,,
+Cod. 26 HAN MAG,1375,1399,ONB,http://data.onb.ac.at/rec/AC13948451,,,,,,yes,,,,,,
+Cod. Ser. n. 3803 HAN MAG,1300,1399,ONB,http://data.onb.ac.at/rec/AC14399888,fragments,,,,,,,,,,,
+Cod. 311 HAN MAG,,,ONB,http://data.onb.ac.at/rec/AC13977890,,,,,,,,,,,,
+Cod. 137 HAN MAG,1150,1199,ONB,http://data.onb.ac.at/rec/AC13951254,,,,,,,,,,,,
+Cod. 194 HAN MAG,,,ONB,http://data.onb.ac.at/rec/AC13974531,,,,,,,,,,,,
+Cod. 264 HAN MAG,,,ONB,http://data.onb.ac.at/rec/AC13974047,,,,,,,,,,,,
+Cod. 13816 HAN MAG,1300,1399,ONB,http://data.onb.ac.at/rec/AC13947347,,,,,,,,,,,,
+Cod. 268 HAN MAG,1300,1399,ONB,http://data.onb.ac.at/rec/AC13951104,,,,,,,,,,,,
+Cod. 100 HAN MAG,,,ONB,http://data.onb.ac.at/rec/AC13951129,,,,,,yes,,,,,,
+Cod. 46 HAN MAG,1400,1499,ONB,http://data.onb.ac.at/rec/AC13950795,,,,,,yes,,,,,,
