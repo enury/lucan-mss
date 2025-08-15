@@ -67,7 +67,6 @@
                       {data: "contents"},
                       {data: "schema"},
                       {data: "schema-location"},
-                      {data: "anthol-lat-233"},
                       {data: "anthol-lat-485c"},
                       {data: "anthol-lat-668"},
                       {data: "anthol-lat-719c"},
@@ -87,7 +86,10 @@
                      "data": 'link',
 					 "render": 
 					     function (data, type, row, meta) {
-						     return '<a href="' + data + '">View</a>';
+							if (data)
+						     {return '<a href="' + data + '">View</a>';}
+							else
+							  {return '-';}
             }
         }
 				  ]
@@ -117,7 +119,6 @@
                     <th>Contents</th>
                     <th>Schemas?</th>
                     <th>Schema location</th>
-                    <th>Anthol.lat.233</th>
                     <th>Anthol.lat.485c</th>
                     <th>Anthol.lat.668</th>
                     <th>Anthol.lat.719c</th>
